@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "juAh+gEq3CqlZgBgJWT6/LG1Pdfre3uqb9y+TTFy7vxMbG5VJlSmGi/cyhcGxlGDyCbS6T+7TTzHvZR4js30Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Área de Trabalho\\Testes\\Mttechne_Backend_Junior\\Mttechne.Backend.Junior\\Mttechne.Backend.Junior.Services\\Mttechne.Backend.Junior.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0-preview.7.23375.6\\microsoft.extensions.dependencyinjection.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.7.23375.6\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512"
+  ],
+  "logs": []
+}
